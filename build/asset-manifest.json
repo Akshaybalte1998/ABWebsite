@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/AkshayBalte_Full_Stack_Developer/static/css/main.fab99dc6.css",
+    "main.js": "/AkshayBalte_Full_Stack_Developer/static/js/main.34209c3c.js",
+    "static/media/remixicon.svg?t=1718271040674": "/AkshayBalte_Full_Stack_Developer/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/cdac.png": "/AkshayBalte_Full_Stack_Developer/static/media/cdac.670ed68984467db0d148.png",
+    "static/media/remixicon.eot?t=1718271040674": "/AkshayBalte_Full_Stack_Developer/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/AkshayBalte_Full_Stack_Developer/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/btech.png": "/AkshayBalte_Full_Stack_Developer/static/media/btech.64bc4a87f233f03b8851.png",
+    "static/media/developer.png": "/AkshayBalte_Full_Stack_Developer/static/media/developer.5d1e0b6756ef34a287be.png",
+    "static/media/AgroMart.webp": "/AkshayBalte_Full_Stack_Developer/static/media/AgroMart.a86b17a9b58f4abaab93.webp",
+    "static/media/drug.webp": "/AkshayBalte_Full_Stack_Developer/static/media/drug.55a7964d2862463ea6cb.webp",
+    "static/media/portfolio-02.jpg": "/AkshayBalte_Full_Stack_Developer/static/media/portfolio-02.252aa09cb6d9c71bebca.jpg",
+    "static/media/akshay.png": "/AkshayBalte_Full_Stack_Developer/static/media/akshay.e053314201843e26fc4d.png",
+    "static/media/remixicon.woff?t=1718271040674": "/AkshayBalte_Full_Stack_Developer/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/Music.webp": "/AkshayBalte_Full_Stack_Developer/static/media/Music.534afc2f4e5d1165cf51.webp",
+    "static/media/portfolio-01.jpg": "/AkshayBalte_Full_Stack_Developer/static/media/portfolio-01.c9a2afcba325392ae82c.jpg",
+    "static/media/remixicon.woff2?t=1718271040674": "/AkshayBalte_Full_Stack_Developer/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/portfolio-03.jpg": "/AkshayBalte_Full_Stack_Developer/static/media/portfolio-03.c1fa2a0faf8a503d3fcc.jpg",
+    "static/media/cdac_logo.png": "/AkshayBalte_Full_Stack_Developer/static/media/cdac_logo.dd78805a33948c81aee6.png",
+    "static/media/portfolio-04.jpg": "/AkshayBalte_Full_Stack_Developer/static/media/portfolio-04.232c072795f09517cebe.jpg",
+    "static/media/ssc.png": "/AkshayBalte_Full_Stack_Developer/static/media/ssc.265df4c3feb6eeef4e57.png",
+    "static/media/hsc.png": "/AkshayBalte_Full_Stack_Developer/static/media/hsc.a95ad6bda097bbcee119.png",
+    "static/media/Aivarient.png": "/AkshayBalte_Full_Stack_Developer/static/media/Aivarient.017e8a98ffc7896852ff.png",
+    "index.html": "/AkshayBalte_Full_Stack_Developer/index.html",
+    "main.fab99dc6.css.map": "/AkshayBalte_Full_Stack_Developer/static/css/main.fab99dc6.css.map",
+    "main.34209c3c.js.map": "/AkshayBalte_Full_Stack_Developer/static/js/main.34209c3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab99dc6.css",
+    "static/js/main.34209c3c.js"
+  ]
+}
